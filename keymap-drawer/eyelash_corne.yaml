@@ -35,7 +35,7 @@ layers:
   - C
   - V
   - B
-  - $$mdi:keyboard-space$$
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:arrow-down-bold$$
   - N
   - M
@@ -50,7 +50,7 @@ layers:
   - SYMBOL
   - $$mdi:apple-keyboard-option$$
   NUMBER:
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '`', s: '~'}
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
   - {t: '3', s: '#'}
@@ -80,11 +80,11 @@ layers:
   - PG UP
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
   - RGB HUI
   - RGB SAI
   - RGB BRI
   - RGB SPI
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - RGB BRD
   - RGB HUD
   - RGB SAD
@@ -99,7 +99,7 @@ layers:
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   SYMBOL:
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '~'
   - '!'
   - '@'
   - '#'
@@ -126,20 +126,20 @@ layers:
   - '{'
   - '}'
   - {t: \, s: '|'}
-  - {t: '`', s: '~'}
+  - '|'
   - {t: '$$mdi:transfer$$', type: trans}
   - OUT USB
   - OUT BLE
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - '&mkp MB5'
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:brightness-7$$
   - _
   - +
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
-  - '|'
+  - {t: '`', s: '~'}
   - '~'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -182,7 +182,7 @@ layers:
   - $$mdi:progress-download$$
   - {t: '$$mdi:transfer$$', type: trans}
   - '&mkp MB5'
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
